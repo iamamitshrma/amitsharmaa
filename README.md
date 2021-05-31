@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amitsharmaa
-- 👀 I’m interested in Programming and development.
+- 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Web or Android Projects.
 - 📫 How to reach me - amitsharma199938@gmail.com
